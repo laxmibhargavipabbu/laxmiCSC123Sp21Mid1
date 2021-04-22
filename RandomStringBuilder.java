@@ -1,4 +1,4 @@
-package Exams;
+package laxmiCSC123Sp21Mid1;
 import java.util.*;
 
 public class RandomStringBuilder
